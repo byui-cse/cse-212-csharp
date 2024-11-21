@@ -2,17 +2,23 @@
 
 Welcome to the C# Fundamentals Tutorial.  Every beginning C# programmer should understand these basic topics:
 
-- [Conditionals](1-conditionals.md)
-- [Loops](2-loops.md)
-- [Functions](3-functions.md)
+Dear Students,
 
-Each module will contain descriptions and examples.  At the end of each module, you will find a problem to solve on your own.  You should only look at the solution after you have attempted to solve the problem first.
+Welcome to our course! This course is designed to deepen your understanding of fundamental data structures, such as stacks, sets, and trees. Throughout this journey, we will explore how these structures work, their applications, and how to implement them in various programming scenarios. Below, you will find links to modules that cover stacks, sets, and trees in detail.
 
-## Contact
+If you have any questions or need assistance, please feel free to reach out to me.
 
-For questions or comments, please send them to:
+Instructor Information
+Name: James Leenue Kennedy
+Class: Cse 212
+Section: A 1
+Email Address:lee20012@byui.edu
 
-Aaron Kay, BYU-Idaho, CSE 212, Section 2
+Module Links
+Stack Module
+Set Module
+Tree Module
+I am looking forward to a great semester with all of you!
 
-kaya@byui.edu
-
+Best regards,
+Jamess Leenue Kennedy
